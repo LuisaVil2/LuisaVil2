@@ -1,6 +1,6 @@
 Finance & International Business | Data | AI | Quantitative Analysis
 
-I'm a Finance and International Business student focused on the intersection of finance, data, and artificial intelligence. I combine financial and quantitative knowledge with programming and data technologies to build practical, data-driven solutions.
+I'm a Finance and International Business professional focused on the intersection of finance, data, and artificial intelligence. I combine financial and quantitative knowledge with programming and data technologies to build practical, data-driven solutions.
 
 My work and interests span data engineering, financial analysis, machine learning, AI, automation, and quantitative methods. I enjoy working with data end-to-end: understanding the problem, structuring and transforming data, analyzing it, and building systems that turn it into useful insights or automated solutions.
 
